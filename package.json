@@ -1,0 +1,11 @@
+{
+  "name": "credit-card-checker-starter",
+  "version": "1.0.0",
+  "description": "The project will validate cards, based on the Luhn algorithm for checking cards",
+  "main": "main.js",
+  "scripts": {
+    "credit-card-checker-starter": "npm run"
+  },
+  "author": "alexiliuta",
+  "license": "ISC"
+}
